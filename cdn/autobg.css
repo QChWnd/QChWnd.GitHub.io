@@ -1,0 +1,10 @@
+@media all and (orientation: portrait) {
+    body {
+        background: url("https://static.qchwnd.moe/api/ybg") center top / cover no-repeat;
+    }
+}
+@media all and (orientation: landscape) {
+    body {
+        background: url("https://static.qchwnd.moe/api/xbg") center top / cover no-repeat;
+    }
+}
