@@ -1,0 +1,9 @@
+Ethereum `0x6dfd82f233C3bC3D389B87146A1aB608e825be75`
+
+Bitcoin `bc1q9t4hwqgvvzw6vju3dmew0avv7xph9979kvka55`
+
+Monero `43hVQD68NLri6EW2A1qYkrWoMCeSimWeXJ1etLKhK9Gebt2W4v7ZcKKDT19eJkhSCx2CYt4PgszRP2FjeLPG45i74rt7NcC`
+
+Tron `TVntUPbuaTfSK5e5s4gUMwGbSvpLsGY8wB`
+
+MugglePay  `2NVUG6EC`
